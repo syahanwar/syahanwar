@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syahanwar
 - 👀 I’m interested in Cloud Engineering and DevOps
-- 🌱 I’m currently learning Linux, Python, Microsoft Azure
+- 🌱 I’m currently learning Linux, Python, Microsoft Azure, Terraform, Ansible
 - 💞️ I’m looking to collaborate on Cloud and Devops
 - 📫 Email me at syahanwarbk@gmail.com
 
