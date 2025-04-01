@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Engineering, DevOps and Network Engineering
 - 🌱 I’m currently learning Linux, Python, Microsoft Azure, Terraform, Ansible
 - 💞️ I’m looking to collaborate on Cloud and Devops
-- AZ 900, AZ 104 & AWS CCP Certified
+- AZ 900, AZ 104, AWS CCP & CCNA Certified
 - 📫 Email me at syahanwarbk@gmail.com
 
 <!---
